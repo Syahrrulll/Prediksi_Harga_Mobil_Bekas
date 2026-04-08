@@ -34,10 +34,8 @@ Kami melakukan pengujian dengan berbagai skenario pembagian data (*data split*) 
 - **Penyimpanan Model:** Joblib / Pickle
 
 ## 📂 Struktur Repositori
-- `notebooks/`: Berisi file Jupyter Notebook proses EDA dan Training.
-- `data/`: Dataset yang digunakan (Kaggle dataset).
-- `models/`: File model final (.pkl atau .joblib).
-- `src/`: Skrip Python untuk pra-pemrosesan dan prediksi.
+- `Projek Folder/`: Berisi file dataset serta Jupyter Notebook proses EDA dan Training.
+
 
 ## ⚙️ Cara Menjalankan
 1. Clone repositori ini:
